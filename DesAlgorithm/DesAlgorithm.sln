@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesAlgorithm", "DesAlgorithm.csproj", "{1D173CD6-1A21-4D8B-A6DE-D73A8A1198AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D173CD6-1A21-4D8B-A6DE-D73A8A1198AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D173CD6-1A21-4D8B-A6DE-D73A8A1198AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D173CD6-1A21-4D8B-A6DE-D73A8A1198AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D173CD6-1A21-4D8B-A6DE-D73A8A1198AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A2370A-9A9D-4D73-A529-9F595C5069E7}
+	EndGlobalSection
+EndGlobal
